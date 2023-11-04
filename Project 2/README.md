@@ -10,18 +10,3 @@ Answer the following questions:
 3. Is there a relationship between income level and the probability of someone defaulting on a loan?
 4. How do different loan objectives affect a person's probability of defaulting on a loan?
 
-Write the overall conclusion.
-
-Data description
-<br>children: number of children in the family
-<br>days_employed: how long the customer has been employed
-<br>dob_years: customer age
-<br>education: customer education level
-<br>education_id: identifier for the customer's education level
-<br>family_status: customer's marital status
-<br>family_status_id: identifier for the customer's marital status
-<br>gender: customer gender
-<br>income_type: customer income type
-<br>debt: whether the customer has ever defaulted on a loan
-<br>total_income: monthly income
-<br>purpose: reason for taking a loan
