@@ -1,3 +1,3 @@
-# Automate Reports With Tableau
+# Customer Churn Classification and Segmentation for a Gym
 
-Create a Dashboard containing trending video category data on YouTube for the countries France, India, Japan, Russia, and the United States for video advertising analysis at the Sterling & Draper advertising agency.
+Conducted data analysis to identify churn predictors and built a classification model for monthly churn probabilities. Utilized clustering techniques (dendrograms, K-means) to segment users by churn risk.
